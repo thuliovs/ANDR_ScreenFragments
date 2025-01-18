@@ -1,7 +1,4 @@
 # ANDR_ScreenFragments
-
----
-
 ## Project Overview
 I developed the **ANDR_ScreenFragments** project using Android Studio to gain hands-on experience with Android fragments. This project explores how fragments can be used to create modular and reusable components, enabling dynamic and adaptive UI designs for different screen sizes and orientations.
 
